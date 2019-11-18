@@ -2,7 +2,7 @@
 
 ## Changelog
 
-### February 9, 2017
+### November 16, 2017
 
 - In response to breaking changes in the eth_sign function, signatures now require a special prefix. See [this GitHub issue](https://github.com/ethereum/go-ethereum/pull/2940) for technical details.
 
