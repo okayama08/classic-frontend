@@ -16,8 +16,8 @@ def make_listing_entry(defn):
         dst_key: defn[src_key]
         for (src_key, dst_key) in TOKEN_KEYS_MAPPING.items()
     }
-    if "__FORKDELTA_CUSTOM_SYMBOL" in defn:
-        token["name"] = defn["__FORKDELTA_CUSTOM_SYMBOL"]
+    if "__BLUEZAKEX_CUSTOM_SYMBOL" in defn:
+        token["name"] = defn["__BLUEZAKEX_CUSTOM_SYMBOL"]
     return token
 
 
