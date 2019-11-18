@@ -1,5 +1,5 @@
 # BlueZakex
-[![Chat on Telegram](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://t.me/bluezakex)
+[![Chat on Telegram](https://img.shields.io/badge/chat-on%20telegram-7289da.svg)](https://t.me/bluezakex)
 
 BlueZakex is a decentralized Ethereum Token Exchange with the most ERC20 listings of any exchange.
 
